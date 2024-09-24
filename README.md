@@ -1,11 +1,10 @@
 Here’s a complete description for a portfolio made using React, Tailwind CSS, and Material UI with an option to contact you for source code:
 
 ---
-**Link**: https://shakthi-portfolio.vercel.app/ 
----.
 **Portfolio Description:**
 
 Welcome to my personal portfolio, built with modern web technologies to showcase my projects, skills, and experiences in web development.
+**Link**: https://shakthi-portfolio.vercel.app/ 
 
 ### Key Features:
 
